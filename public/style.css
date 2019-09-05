@@ -1,0 +1,54 @@
+body{
+    background-image:url('/static/bkgnd.jpg');
+}
+h1{
+    /*float:right;
+    margin-top:20px;*/ 
+    color:blue;
+    text-shadow:-2px 2px 2px black;
+    text-align:center;
+    font-size:60px;
+}
+li img{
+    width:35px;
+    border-radius:16px;
+    padding-top:10px;
+}
+h2{
+    color:yellow;
+    text-shadow:1px 1px 1px black;
+    background-color:rgb(146 102 198);
+    margin-top:10px;
+    font-size:40px;
+    text-align:center;
+    padding-top:1px;
+}
+h3{
+    color:blue;
+    text-shadow:1px 1px 1px black;
+    text-align:center;
+    font-size:35px;
+}
+h4{
+    color:black;
+    text-shadow:2px 2px 2px white;
+    font-family: courier new;
+    text-align:center;
+    font-size:35px;
+    margin-top:70px;
+}    
+li{
+    list-style-type:none;
+    color:black;
+    padding-left:10px;
+    font-size:23px;
+    line-height:3em;
+}    
+.sites{
+    /*background-color:black;*/
+    border:2px solid;
+    box-sizing:border-box;
+    margin-top:1px;
+    float:left;
+    width:25%;
+}
